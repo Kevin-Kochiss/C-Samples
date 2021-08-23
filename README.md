@@ -1,6 +1,8 @@
 # C-Samples
 This repository contains samples from my private repository for the purpose of portfolio demonstration.
+
 About the code in the repository:
+
 -- RESTFunctionLibrary -- 
 This function library that can be used to create various REST API calls at runtime from the Unreal engine.  The functiona library allows you to convert Json objects 
 into structs defined in UE4, download and convert base64 strings into images, and perform generic GET and POST requests, (typically used in conjunction with the Json converters to get and post information to and from UE4 structs).
