@@ -21,9 +21,6 @@ class ASYLUMPROJECT_API URESTFunctionLibrary : public UBlueprintFunctionLibrary
 
 
 public:
-
-	//UFUNCTION(BlueprintCallable, Category = "Audio", meta = (WorldContext = "WorldContextObject"))
-
 	
 	/*
 	* Saves a Base64 image string to a png on disk
